@@ -1,0 +1,18 @@
+Conceitos importantes
+
+SHA1
+
+que é o sha1 exemplo echo "ola mundo" | openssl sha1
+> (stdin)= 40caracteres
+SHA Segure Hash Algorith criptogtrafa seu arquivo em 40 caractere e qualquer vez q vc entrar e alterar que seja uma virgula ele vai gerar mais um de 40 caracteres
+
+
+Blobs
+
+
+
+Trees
+
+
+
+Commits

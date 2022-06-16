@@ -1,0 +1,11 @@
+Que um problema e varios problemas menores.
+Ordem de solução desses problemas, sequencial e paralela. Sendo sequencial quando a dependencia vc precisa resolver um problema primeiro para conseguir resolver outro. 
+e parale vc pode ir resolvendo os problemas juntos pois não a dependencia
+
+Como decompor 
+1° identificar ou coletas os dados 
+
+2° agregar os dados, determinar as etapas 
+
+3° funcionalidade
+

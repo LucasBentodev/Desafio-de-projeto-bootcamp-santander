@@ -1,0 +1,13 @@
+o que é 
+
+Organização e planejamento das intruções, assertiva em um algoritmo, a fim de viabilizar a implantação de um programa
+
+
+Tecnicas de lógica de programação
+
+Linear: Não tem vínculo, estrutura hierárquica, execução sequenciada, unica dimensão, dependencia entre si
+
+Estruturada: Escrita, entendimento, validação e manutenção pode ter mais um opção if else, podendo definir modulos
+com intensão de simplificar, decompor o problema e verificar o módulo.
+
+

@@ -1,0 +1,9 @@
+dir para mostrar todas as pastas do respositório
+cd mais nome da pasta pr ir pr repositório
+cd .. para voltar
+cls pr limpar a tela 
+del mais nome do repositório para excluir os arquivos dentro do repositório
+mkdir + nome pr criar um novo repositório
+pr criar um arquivo dentro do repositório  tem que colocar echo nomedoarquivo > nomedoarquivo.formatodoarquivo
+rmdir + nome do repósitorio /S /Q. para excluir todo o repositório
+

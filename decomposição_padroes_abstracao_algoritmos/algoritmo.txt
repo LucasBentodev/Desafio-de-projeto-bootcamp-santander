@@ -1,0 +1,19 @@
+compreensao do problema
+definicao dados de entrada
+definir processamento 
+definir dados de saida 
+utilizar um metodo de construcao 
+teste e diagnostico
+
+tres tipos de construcao 
+
+narrativa
+
+utilização da linguagem natural
+
+fluxograma
+
+estrutura grafica com simbolos pre definidos com a ações utilizadas
+
+
+pseudocodigo - portugol regras definidas, passos a serem seguidos

@@ -1,0 +1,35 @@
+ Tipologia e variáveis
+
+Tipos
+
+Numéricos: inteiros  0,1 15 1500 -580 positivos ou negtivos, que não possuem casas decimais
+Reais: todos os numeros ever com casas decimais
+
+Caracteres: tudo q se digita
+
+Booleanos: Verdadeiro falso null.
+
+Variável:
+É uma estrutura mutavel, inconstante que pode receber mais de um valor ou modificar seu valor.
+sendo restrita ao seu tipo definido. 
+
+Nome da variável regras:
+.atribuição de um ou mais caracteres,
+.Primeira letra - não número,
+.Sem espaços em branco
+.Vedado
+. Proibido utilizar palavras reservadas da linguagem na qual está escrevendo
+. Caracteres e números
+
+Ela pode ser de ação ou controle, sendo ação modificação de estado.
+
+Instruções primitivas.
+
+operadores são os sinais de matemáticos.
+
+Palavras chaves
+
+
+Estrutura de repetição
+
+

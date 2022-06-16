@@ -1,0 +1,13 @@
+git init para criar o repositório
+ls -a para mostrar arquivos ocultos
+git stagitus mostra em qual estado esta o repositório
+para mover um arquivo de um repositório para o outro é mv espaço nome do arquivo ./nomedorepositório/
+existem tres status o primeiro é untracked que é quando vc alterou mas ainda esta atras do palco o git não sabe, ai usando o git add masnomedorepositório ele vai para staged o git ja sabe q foi alterado mas ainda não foi tirado o snapshot da alteração
+e por ultimo o commit quando é tirado o snapshot da alteração e feito o commit
+ cgi 
+Para Subir no github
+
+git remote add origin +endereço do repositório
+git remote -v para ver ser deu certo vai aparecer dois origin +endereço do repositório fetch e puch
+feito isso 
+para subgitir usa git push origin master feito isso ta bonito

@@ -1,0 +1,6 @@
+COmpressão de dados,
+
+grau de similaridade
+
+representar atributos, para que a maquina consiga entender;amazenar dados e regras de decisão
+

@@ -1,0 +1,27 @@
+Pensamento Computacional.
+
+Baseado em 4 pilares
+
+
+-Decomposição
+
+Dividir problema complexo em subproblemas e ir resolvendo um por um.Ir realizando ele passo a passo
+
+-Reconhecimento de Padrões
+
+Identificar padrões e tendencias 
+
+
+
+-Abstração
+
+abstrair é transformar em um pensamento generalista
+
+-Design de algoritmos
+
+Instruções da solução, tem uma entrada um operador e uma saída. 
+
+
+
+Raciocinio lógico e refanimento são muito importantes tambem. 
+
