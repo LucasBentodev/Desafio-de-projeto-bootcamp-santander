@@ -3,7 +3,7 @@ ls -a para mostrar arquivos ocultos
 git stagitus mostra em qual estado esta o repositório
 para mover um arquivo de um repositório para o outro é mv espaço nome do arquivo ./nomedorepositório/
 existem tres status o primeiro é untracked que é quando vc alterou mas ainda esta atras do palco o git não sabe, ai usando o git add masnomedorepositório ele vai para staged o git ja sabe q foi alterado mas ainda não foi tirado o snapshot da alteração
-e por ultimo o commit quando é tirado o snapshot da alteração e feito o commit
+e por ultimo o commit quando é tirado o snapshot da alteração e feito o commit. git commit -m "nome da alteração realizada"
  cgi 
 Para Subir no github
 
